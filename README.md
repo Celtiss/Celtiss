@@ -2,9 +2,13 @@
 <br>
 <h2 align="center">About me</h2>
 <br>
-<p align="center">22 years old✨</p>
-<p align="center">Moscow 📍</p>
-<p align="center">Bachelor's Degree with Honors in Information Systems and Technology 📚</p>
+<p align="center">
+  Moscow 📍. 22 years old✨. Frontend-developer👾
+  <br>
+  Bachelor's Degree with Honors in Information Systems and Technology 📚
+  <br>
+  
+</p>
 <br>
 <h2 align="center">Technology Stack</h2>
 <br>
