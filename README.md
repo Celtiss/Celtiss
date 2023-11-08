@@ -1,7 +1,11 @@
 <img align="right" alt="Coding" width="100%" src="./banner/banner.png">
-
+<br>
+<br>
+<h2 align="center">About me</h2>
+<br>
+<br>
 <h2 align="center">Technology Stack</h2>
-
+<br>
 <div width="100%" align="center">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -12,7 +16,8 @@
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 </div>
-
+<br>
+<br>
 
 
 
