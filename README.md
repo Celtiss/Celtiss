@@ -1,8 +1,5 @@
 <img align="right" alt="Coding" width="100%" src="./banner/banner.png">
 <br>
-
-![](https://komarev.com/ghpvc/?username=Celtiss)
-<br>
 <h2 align="center">About me</h2>
 <br>
 <p align="center">
@@ -15,7 +12,8 @@
 <br>
 <h2 align="center">Technology Stack</h2>
 <br>
-
+<div align="center">
+  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -26,8 +24,14 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+</div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Celtiss&theme=solarized_dark)
+![](https://komarev.com/ghpvc/?username=Celtiss)
+
+<div align="center">
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Celtiss&theme=solarized_dark)
+</div>
 
 <!--
 **Celtiss/Celtiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
