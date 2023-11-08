@@ -1,5 +1,7 @@
 <img align="right" alt="Coding" width="100%" src="./banner/banner.png">
 <br>
+![](https://komarev.com/ghpvc/?username=Celtiss)
+<br>
 <h2 align="center">About me</h2>
 <br>
 <p align="center">
@@ -24,9 +26,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celtiss&layout=compact)](https://github.com/Celtiss/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Celtiss&theme=solarized_dark)
 
 <!--
 **Celtiss/Celtiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
