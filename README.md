@@ -1,5 +1,6 @@
 ### Hi there 👋
 <img align="right" alt="Coding" width="400" src="./banner/banner.png">
+
 ![Elens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celtiss&theme=cobalt&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celtiss&layout=compact)](https://github.com/Celtiss/github-readme-stats)
 
