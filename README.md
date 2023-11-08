@@ -1,7 +1,9 @@
-### Hi there 👋
 <img align="right" alt="Coding" width="100%" src="./banner/banner.png">
 
-![Elens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celtiss&theme=cobalt&show_icons=true)
+<h2 align="center">Technology Stack</h2>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celtiss&layout=compact)](https://github.com/Celtiss/github-readme-stats)
 
 <!--
