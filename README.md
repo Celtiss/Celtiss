@@ -2,9 +2,9 @@
 <br>
 <h2 align="center">About me</h2>
 <br>
-<p>22 years old✨</p>
-<p>Moscow 📍</p>
-<p>Bachelor's Degree with Honors in Information Systems and Technology 📚</p>
+<p align="center">22 years old✨</p>
+<p align="center">Moscow 📍</p>
+<p align="center">Bachelor's Degree with Honors in Information Systems and Technology 📚</p>
 <br>
 <h2 align="center">Technology Stack</h2>
 <br>
