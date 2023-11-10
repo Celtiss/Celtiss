@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" src="./banner/profile-banner.gif">
+<img align="right" alt="Coding" width="80%" src="./banner/profile-banner.gif">
 <br>
 <h2 align="center">About me</h2>
 <br>
