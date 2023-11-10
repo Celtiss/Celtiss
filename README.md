@@ -1,8 +1,5 @@
 <!-- <img align="right" alt="Coding" width="100%" src="./banner/banner.png"> -->
- <!-- <img align="center" alt="banner" width="100%" src="./banner/japan-scenery.gif">-->
-<!--<img align="center" alt="banner" width="100%" src="./banner/xhrYwDs.gif">-->
-<!--<img align="center" alt="banner" width="100%" src="./banner/lennart-butz-ukiyo2.gif">-->
-<div align="center" width="100%" style="background-image: url('./banner/lennart-butz-ukiyo2.gif'; width: 100px;)">hg</div>
+<img align="center" alt="banner" width="100%" src="./banner/banner.gif">
 <br>
 <h2 align="center">About me</h2>
 <br>
