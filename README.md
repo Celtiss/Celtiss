@@ -1,5 +1,4 @@
-<!-- <img align="right" alt="Coding" width="100%" src="./banner/banner.png"> -->
- <img align="center" alt="banner" width="100%" src="./banner/banner.gif">
+<img align="right" alt="Coding" width="100%" src="./banner/banner.png">
 <br>
 <h2 align="center">About me</h2>
 <br>
