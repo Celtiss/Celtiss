@@ -1,6 +1,6 @@
 <!-- <img align="right" alt="Coding" width="100%" src="./banner/banner.png"> -->
 <!-- <img align="center" alt="banner" width="100%" src="./banner/japan-scenery.gif"> -->
-<img align="center" alt="banner" width="100%" src="./banner/xhrYwDs.gif">
+<img align="center" alt="banner" width="100%" height="70%" src="./banner/xhrYwDs.gif">
 <!--<img align="center" alt="banner" width="100%" src="./banner/lennart-butz-ukiyo2.gif">
 <img align="center" alt="banner" width="100%" src="./banner/bd565dcc0a556add0b0a0ed6b26d686e.gif"> -->
 <br>
