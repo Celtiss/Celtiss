@@ -2,7 +2,7 @@
  <!-- <img align="center" alt="banner" width="100%" src="./banner/japan-scenery.gif">-->
 <!--<img align="center" alt="banner" width="100%" src="./banner/xhrYwDs.gif">-->
 <!--<img align="center" alt="banner" width="100%" src="./banner/lennart-butz-ukiyo2.gif">-->
-<div align="center" width="100%" style="background-image: url("./banner/lennart-butz-ukiyo2.gif")">hg</div>
+<div align="center" width="100%" style="background-image: url('./banner/lennart-butz-ukiyo2.gif')">hg</div>
 <br>
 <h2 align="center">About me</h2>
 <br>
