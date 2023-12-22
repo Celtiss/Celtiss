@@ -1,11 +1,10 @@
 <img align="center" alt="Coding" width="100%" height="80%" src="./banner/profile-banner.gif">
 <br>
-<h2 align="center">❗️Actively looking for a job👩‍💻</h2>
 <br>
 <h2 align="center">About me</h2>
 <br>
 <p align="center">
-  Moscow 📍. 22 years old✨. Frontend-developer👾
+  Moscow 📍. 23 years old✨. Frontend-developer👾
   <br>
   Bachelor's Degree with Honors in Information Systems and Technology 📚
   <br>
